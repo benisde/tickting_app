@@ -116,4 +116,4 @@ The video of the execution is available in the zip file shows how we run the com
 1. Better User Interface with seperate logins for Event planner and Purchaser
 2. Real-time Updates for the Event planners will be able to manage their events more effectively
 3. Secondary Sales
-4. Program royalty of secondary sales
+4. Program royalty of secondary sales ([ERC-2981](https://eips.ethereum.org/EIPS/eip-2981))
