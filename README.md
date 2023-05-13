@@ -2,6 +2,10 @@
 
 <br>
 
+## Whitepaper
+
+[Presentation](https://docs.google.com/presentation/d/e/2PACX-1vTeCu4wz8saTV0oo-YJ3ux_6FABDYBcd1hP6eJzpewAUdGmZaPDAiz82GqVSyz2HDWy8YVZDl0VWetC/pub?start=false&loop=false&delayms=5000)
+
 ## Project Brief: 
 Overview of the Blockchain-Based Ticketing System App
 
