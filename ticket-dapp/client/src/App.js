@@ -138,7 +138,7 @@ const TicketApp = () => {
         <button onClick={() => handleTransferTicket(recipient)}>Transfer Ticket</button>
 
         {/* UI components for displaying ticket details */}
-        <h2>My Tickets</h2>
+        {/* <h2>My Tickets</h2> */}
         <ul>
           {tickets.map((ticket) => (
             <li key={ticket.tokenId}>
@@ -151,7 +151,7 @@ const TicketApp = () => {
           ))}
         </ul>
           {/* UI components for displaying ticket details */}
-          <h2>All Tickets</h2>
+          {/* <h2>All Tickets</h2> */}
           <ul>
             {tickets.map((ticket) => (
               <li key={ticket.tokenId}>
